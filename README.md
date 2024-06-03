@@ -1,0 +1,1 @@
+Developed a multiplayer card game in Java using Apache NetBeans, featuring an intuitive graphical user interface. Implemented game logic, player interactions, and scoring mechanisms. Enhanced user experience with smooth animations and responsive design.
